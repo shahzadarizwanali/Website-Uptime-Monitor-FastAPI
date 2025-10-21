@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+SQLAlchemy
+alembic
+httpx
+apscheduler
+pytest
+pytest-asyncio
