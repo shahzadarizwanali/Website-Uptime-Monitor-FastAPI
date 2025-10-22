@@ -15,7 +15,7 @@ It periodically checks registered websites' availability, measures their respons
 ✅ Configurable check intervals per website  
 ✅ Fully asynchronous (async/await everywhere)  
 ✅ Database migration support with Alembic  
-✅ FastAPI interactive documentation (Swagger UI /PostMAN)
+✅ Tested via Postman
 
 ---
 
