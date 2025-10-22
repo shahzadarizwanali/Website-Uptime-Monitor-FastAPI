@@ -11,5 +11,7 @@ def normalize_url(url: str) -> str:
         if not parsed.netloc:
             raise ValueError("Malformed URL")
 
-        normalized = urlunparse((parsed.scheme, parsed.netloc.lower()))
+        normalized = urlunparse((parsed.scheme, parsed.netloc.lower(), "", "", "", ""))
         return normalized.rstrip("/")
+
+    return url.rstrip("/")
