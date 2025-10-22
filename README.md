@@ -247,7 +247,7 @@ alembic upgrade head
 
 ## 👨‍💻 Author
 
-**Developed by:** Your Name  
+**Developed by:** Shahzada Rizwan Ali
 **Organization:** Synares Systems  
 **Date:** Week 6 Task  
 **Purpose:** Website Uptime Monitoring Tool with SSRF Protection
